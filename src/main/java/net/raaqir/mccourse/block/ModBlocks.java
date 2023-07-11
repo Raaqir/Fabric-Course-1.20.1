@@ -15,6 +15,9 @@ public class ModBlocks {
 
     public static final  Block SHTAIN_BLOCK = registerBlock("shtain_block",
             new Block(FabricBlockSettings.copyOf(Blocks.EMERALD_BLOCK)));
+    public static final  Block RAW_SHTAIN_BLOCK = registerBlock("raw_shtain_block",
+            new Block(FabricBlockSettings.copyOf(Blocks.EMERALD_BLOCK)));
+
 
 
     private static Block registerBlock(String name, Block block) {

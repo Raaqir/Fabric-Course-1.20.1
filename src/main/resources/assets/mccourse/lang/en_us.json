@@ -2,5 +2,7 @@
   "item.mccourse.shtain": "Shtain",
   "item.mccourse.raw_shtain": "Raw Shtain",
 
-  "block.mccourse.shtain_block": "Block of Shtain"
+  "block.mccourse.shtain_block": "Block of Shtain",
+  "block.mccourse.raw_shtain_block": "Block of Raw Shtain",
+  "itemgroup.shtain_group": "Shtain Group"
 }
