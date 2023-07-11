@@ -4,7 +4,7 @@ import net.fabricmc.api.ClientModInitializer;
 
 public class MCCourseModClient implements ClientModInitializer {
 
-    @java.lang.Override
+    @Override
     public void onInitializeClient() {
 
     }

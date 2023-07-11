@@ -19,5 +19,6 @@ public class MCCourseMod implements ModInitializer {
 
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
+
 	}
 }
