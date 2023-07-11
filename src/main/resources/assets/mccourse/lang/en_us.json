@@ -1,4 +1,6 @@
 {
   "item.mccourse.shtain": "Shtain",
-  "item.mccourse.raw_shtain": "Raw Shtain"
+  "item.mccourse.raw_shtain": "Raw Shtain",
+
+  "block.mccourse.shtain_block": "Block of Shtain"
 }

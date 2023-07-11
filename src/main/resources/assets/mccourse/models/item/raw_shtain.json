@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "later0": "mccourse:item/raw_shtain"
+    "layer0": "mccourse:item/raw_shtain"
   }
 }

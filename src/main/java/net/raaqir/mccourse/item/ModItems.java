@@ -9,6 +9,7 @@ import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
 import net.raaqir.mccourse.MCCourseMod;
+import net.raaqir.mccourse.block.ModBlocks;
 
 public class ModItems {
     public static final Item SHTAIN = registerItem("shtain",
@@ -22,6 +23,8 @@ public class ModItems {
     private static void itemGroupIngredients(FabricItemGroupEntries entries) {
         entries.add(SHTAIN);
         entries.add(RAW_SHTAIN);
+
+        entries.add(ModBlocks.SHTAIN_BLOCK);
     }
     public static void registerModItems() {
         MCCourseMod.LOGGER.info("Registering Mod Items for " + MCCourseMod.MOD_ID);
