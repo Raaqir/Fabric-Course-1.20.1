@@ -13,10 +13,30 @@ import net.raaqir.mccourse.MCCourseMod;
 
 public class ModBlocks {
 
+
+
+    ///               ------BLOCKS------
+
     public static final  Block SHTAIN_BLOCK = registerBlock("shtain_block",
             new Block(FabricBlockSettings.copyOf(Blocks.EMERALD_BLOCK)));
     public static final  Block RAW_SHTAIN_BLOCK = registerBlock("raw_shtain_block",
             new Block(FabricBlockSettings.copyOf(Blocks.EMERALD_BLOCK)));
+
+
+
+    ///               ------ORES------
+
+    public static final  Block SHTAIN_ORE = registerBlock("shtain_block",
+            new Block(FabricBlockSettings.copyOf(Blocks.STONE)));
+    public static final  Block NETHER_SHTAIN_ORE = registerBlock("raw_shtain_block",
+            new Block(FabricBlockSettings.copyOf(Blocks.NETHERRACK)));
+    public static final  Block END_STONE_SHTAIN_ORE = registerBlock("shtain_block",
+            new Block(FabricBlockSettings.copyOf(Blocks.END_STONE)));
+    public static final  Block DEEPSLATE_SHTAIN_ORE = registerBlock("raw_shtain_block",
+            new Block(FabricBlockSettings.copyOf(Blocks.DEEPSLATE)));
+
+
+
 
 
 

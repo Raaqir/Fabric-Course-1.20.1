@@ -20,6 +20,10 @@ public class ModItemGroup {
 
                         entries.add(ModBlocks.SHTAIN_BLOCK);
                         entries.add(ModBlocks.RAW_SHTAIN_BLOCK);
+                        entries.add(ModBlocks.NETHER_SHTAIN_ORE);
+                        entries.add(ModBlocks.SHTAIN_ORE);
+                        entries.add(ModBlocks.DEEPSLATE_SHTAIN_ORE);
+                        entries.add(ModBlocks.END_STONE_SHTAIN_ORE);
 
                     }).build());
 

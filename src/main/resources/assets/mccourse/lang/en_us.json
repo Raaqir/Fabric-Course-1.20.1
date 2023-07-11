@@ -4,5 +4,13 @@
 
   "block.mccourse.shtain_block": "Block of Shtain",
   "block.mccourse.raw_shtain_block": "Block of Raw Shtain",
+
+
+  "block.mccourse.shtain_ore": "Shtain Ore",
+  "block.mccourse.nether_shtain_ore": "Nether Shtain Ore",
+  "block.mccourse.deepslate_shtain_ore": "Deepslate Shtain Ore",
+  "block.mccourse.end_stone_shtain_ore": "End Stone Shtain Ore",
+
+
   "itemgroup.shtain_group": "Shtain Group"
 }

@@ -26,7 +26,9 @@ public class ModItems {
 
         entries.add(ModBlocks.SHTAIN_BLOCK);
         entries.add(ModBlocks.RAW_SHTAIN_BLOCK);
+
     }
+
     public static void registerModItems() {
         MCCourseMod.LOGGER.info("Registering Mod Items for " + MCCourseMod.MOD_ID);
 
