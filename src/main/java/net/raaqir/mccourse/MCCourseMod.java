@@ -2,6 +2,7 @@ package net.raaqir.mccourse;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.raaqir.mccourse.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -13,6 +14,6 @@ public class MCCourseMod implements ModInitializer {
 	public void onInitialize() {
 		// this is a comment bitch
 
-		LOGGER.info("Hello Fabric world!");
+		ModItems.registerModItems();
 	}
 }
